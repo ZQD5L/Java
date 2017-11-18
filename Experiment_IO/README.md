@@ -8,7 +8,7 @@ java文件:
 IOOperation.java
 截图：
 ![image](https://github.com/ZQD5L/Java/raw/master/Experiment_IO/imgs/1.1.png)
-![image](https://github.com/ZQD5L/Java/raw/master/Experiment_IO/1.1.png)
+![image](https://github.com/ZQD5L/Java/raw/master/Experiment_IO/imgs/1.2.png)
 实验二 获取系统的文件树
 获取某个目录下的目录信息，目录从控制台输入。
 目录信息包括该目录下的所有文件和文件夹的列表。对于每个文件夹显示其名称，修改日期。对于每个文件显示其名称，修改日期和大小。
