@@ -5,7 +5,7 @@
 将dest.txt文件内容显示到屏幕上.<br>
 java文件:<br>
 IOOperation.java<br>
-截图：
+截图：<br>
 ![image](https://github.com/ZQD5L/Java/raw/master/Experiment_IO/imgs/1.1.png)
 ![image](https://github.com/ZQD5L/Java/raw/master/Experiment_IO/imgs/1.2.png)
 ![image](https://github.com/ZQD5L/Java/raw/master/Experiment_IO/imgs/1.3.png)
