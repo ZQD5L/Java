@@ -7,8 +7,8 @@
 javaÎÄ¼ş£º
 IOOperation.java
 ½ØÍ¼£º
-![image](https://github.com/ZQD5L/Java/raw/master/imgs/1.1.png)
-![image](https://github.com/ZQD5L/Java/raw/master/imgs/1.2.png)
+![image](https://github.com/ZQD5L/Java/tree/master/Experiment_IO/imgs/1.1.png)
+![image](https://github.com/ZQD5L/Java/tree/master/Experiment_IO/imgs/1.2.png)
 ![image](https://github.com/ZQD5L/Java/raw/master/imgs/1.3.png)
 
 
