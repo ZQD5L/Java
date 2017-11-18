@@ -7,7 +7,6 @@
 java文件：
 IOOperation.java
 截图：
-![image](https://github.com/ZQD5L/Java/raw/master/1.1.png)
 ![image](https://github.com/ZQD5L/Java/raw/master/Experiment_IO/imgs/1.1.png)
 ![image](https://github.com/ZQD5L/Java/blob/master/Experiment_IO/1.1.png)
 实验二 获取系统的文件树
