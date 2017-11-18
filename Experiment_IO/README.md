@@ -1,45 +1,39 @@
 
-ÊµÑéÒ» »ù±¾IO²Ù×÷
-´Ó¼üÅÌ½ÓÊÕ×Ö½ÚÁ÷
-Ğ´Èëµ½µ±Ç°Ä¿Â¼ÏÂµÄsrc.txtÎÄ¼şÖĞ
-½«src.txtÎÄ¼şÄÚÈİ¸´ÖÆµ½µ±Ç°Ä¿Â¼ÏÂdest.txtÎÄ¼şÖĞ
-½«dest.txtÎÄ¼şÄÚÈİÏÔÊ¾µ½ÆÁÄ»ÉÏ
-javaÎÄ¼ş£º
+å®éªŒä¸€ åŸºæœ¬IOæ“ä½œ
+ä»é”®ç›˜æ¥æ”¶å­—èŠ‚æµ
+å†™å…¥åˆ°å½“å‰ç›®å½•ä¸‹çš„src.txtæ–‡ä»¶ä¸­
+å°†src.txtæ–‡ä»¶å†…å®¹å¤åˆ¶åˆ°å½“å‰ç›®å½•ä¸‹dest.txtæ–‡ä»¶ä¸­
+å°†dest.txtæ–‡ä»¶å†…å®¹æ˜¾ç¤ºåˆ°å±å¹•ä¸Š
+javaæ–‡ä»¶ï¼š
 IOOperation.java
-½ØÍ¼£º
-![image](https://github.com/ZQD5L/Java/blob/master/Experiment_IO/imgs/1.1.png)
-![image](https://github.com/ZQD5L/Java/tree/master/Experiment_IO/imgs/1.2.png)
-![image](https://github.com/ZQD5L/Java/raw/master/imgs/1.3.png)
+æˆªå›¾ï¼š
 ![image](https://github.com/ZQD5L/Java/raw/master/1.1.png)
-![image](https://github.com/ZQD5L/Java/tree/master/1.1.png)
-![image](https://github.com/ZQD5L/Java/blob/master/1.1.png)
 ![image](https://github.com/ZQD5L/Java/raw/master/Experiment_IO/1.1.png)
-![image](https://github.com/ZQD5L/Java/tree/master/Experiment_IO/1.1.png)
 ![image](https://github.com/ZQD5L/Java/blob/master/Experiment_IO/1.1.png)
-ÊµÑé¶ş »ñÈ¡ÏµÍ³µÄÎÄ¼şÊ÷
-»ñÈ¡Ä³¸öÄ¿Â¼ÏÂµÄÄ¿Â¼ĞÅÏ¢£¬Ä¿Â¼´Ó¿ØÖÆÌ¨ÊäÈë¡£
-Ä¿Â¼ĞÅÏ¢°üÀ¨¸ÃÄ¿Â¼ÏÂµÄËùÓĞÎÄ¼şºÍÎÄ¼ş¼ĞµÄÁĞ±í¡£¶ÔÓÚÃ¿¸öÎÄ¼ş¼ĞÏÔÊ¾ÆäÃû³Æ£¬ĞŞ¸ÄÈÕÆÚ¡£¶ÔÓÚÃ¿¸öÎÄ¼şÏÔÊ¾ÆäÃû³Æ£¬ĞŞ¸ÄÈÕÆÚºÍ´óĞ¡¡£
-Ä¿Â¼µÄĞÅÏ¢Ğ´³öµ½ÎÄ¼şÖĞ¡£×¢Òâ£¬ÎÄ¼şĞÅÏ¢Ê×ÏÈ°´ÀàĞÍ·ÖÀà£¬ÎÄ¼ş¼ĞÔÚÇ°£¬ÎÄ¼şÔÚºó£¬²¢ÇÒËûÃÇ¸÷×Ô°´ÕÕÎÄ¼şÃû×Ö·û´®µÄË³ĞòÅÅĞò¡£
-javaÎÄ¼ş£º
+å®éªŒäºŒ è·å–ç³»ç»Ÿçš„æ–‡ä»¶æ ‘
+è·å–æŸä¸ªç›®å½•ä¸‹çš„ç›®å½•ä¿¡æ¯ï¼Œç›®å½•ä»æ§åˆ¶å°è¾“å…¥ã€‚
+ç›®å½•ä¿¡æ¯åŒ…æ‹¬è¯¥ç›®å½•ä¸‹çš„æ‰€æœ‰æ–‡ä»¶å’Œæ–‡ä»¶å¤¹çš„åˆ—è¡¨ã€‚å¯¹äºæ¯ä¸ªæ–‡ä»¶å¤¹æ˜¾ç¤ºå…¶åç§°ï¼Œä¿®æ”¹æ—¥æœŸã€‚å¯¹äºæ¯ä¸ªæ–‡ä»¶æ˜¾ç¤ºå…¶åç§°ï¼Œä¿®æ”¹æ—¥æœŸå’Œå¤§å°ã€‚
+ç›®å½•çš„ä¿¡æ¯å†™å‡ºåˆ°æ–‡ä»¶ä¸­ã€‚æ³¨æ„ï¼Œæ–‡ä»¶ä¿¡æ¯é¦–å…ˆæŒ‰ç±»å‹åˆ†ç±»ï¼Œæ–‡ä»¶å¤¹åœ¨å‰ï¼Œæ–‡ä»¶åœ¨åï¼Œå¹¶ä¸”ä»–ä»¬å„è‡ªæŒ‰ç…§æ–‡ä»¶åå­—ç¬¦ä¸²çš„é¡ºåºæ’åºã€‚
+javaæ–‡ä»¶ï¼š
 FileTree.java
-½ØÍ¼£º
+æˆªå›¾ï¼š
 ![image](https://github.com/ZQD5L/Java/raw/master/imgs/2.1.png)
 ![image](https://github.com/ZQD5L/Java/raw/master/imgs/2.2.png)
 
-ÊµÑéÈı ´ø»º³åÇøµÄIO
-ÓÃ´ø»º³åºÍ²»´ø»º³åµÄ×Ö·ûÁ÷ÊµÏÖÎÄ¼ş¸´ÖÆ£¬²¢±È½ÏºÄÊ±Çé¿ö¡£
-javaÎÄ¼ş£º
+å®éªŒä¸‰ å¸¦ç¼“å†²åŒºçš„IO
+ç”¨å¸¦ç¼“å†²å’Œä¸å¸¦ç¼“å†²çš„å­—ç¬¦æµå®ç°æ–‡ä»¶å¤åˆ¶ï¼Œå¹¶æ¯”è¾ƒè€—æ—¶æƒ…å†µã€‚
+javaæ–‡ä»¶ï¼š
 BufferIO.java
-½ØÍ¼£º
+æˆªå›¾ï¼š
 ![image](https://github.com/ZQD5L/Java/raw/master/imgs/3.1.png)
 
-ÊµÑéËÄ ¶ÔÏóĞòÁĞ»¯
-ÀàStudent±íÊ¾Ñ§Éú£¬ÊôĞÔ°üÀ¨{studentID, name, sex} (Ñ§ºÅ£¬ĞÕÃû£¬ĞÔ±ğ)£¬Ê¹ÓÃĞòÁĞ»¯¼¼Êõ¶¨ÒåStudent¡£Ñ§ÉúĞÅÏ¢´ÓÎÄ¼şlist.txt¶ÁÈë£¬²¢°´ÕÕÑ§ºÅÉıĞòÅÅÁĞ¡£×¢Òâ£¬ÕâÀïĞÕÃûºÍĞÔ±ğ¿ÉÒÔ×éÖ¯³ÉStringÀàĞÍ£¬¶øÑ§ºÅ¿ÉÒÔÊÇStringÒ²¿ÉÒÔÊÇLong¡£
-Ê¹ÓÃObjectOutputStream½«ÒÑ¾­ÅÅĞòµÄÑ§ÉúĞÅÏ¢Ğ´³öµ½ÎÄ¼ş¡°student.bin¡±ÖĞ¡£
-Ê¹ÓÃObjectInputStream½«¡°student.bin¡±ÖĞµÄ¶ÔÏóĞÅÏ¢¶ÁÈë³ÌĞò£¬ÏÔÊ¾ÔÚ¿ØÖÆÌ¨ÖĞ¡£
-javaÎÄ¼ş£º
+å®éªŒå›› å¯¹è±¡åºåˆ—åŒ–
+ç±»Studentè¡¨ç¤ºå­¦ç”Ÿï¼Œå±æ€§åŒ…æ‹¬{studentID, name, sex} (å­¦å·ï¼Œå§“åï¼Œæ€§åˆ«)ï¼Œä½¿ç”¨åºåˆ—åŒ–æŠ€æœ¯å®šä¹‰Studentã€‚å­¦ç”Ÿä¿¡æ¯ä»æ–‡ä»¶list.txtè¯»å…¥ï¼Œå¹¶æŒ‰ç…§å­¦å·å‡åºæ’åˆ—ã€‚æ³¨æ„ï¼Œè¿™é‡Œå§“åå’Œæ€§åˆ«å¯ä»¥ç»„ç»‡æˆStringç±»å‹ï¼Œè€Œå­¦å·å¯ä»¥æ˜¯Stringä¹Ÿå¯ä»¥æ˜¯Longã€‚
+ä½¿ç”¨ObjectOutputStreamå°†å·²ç»æ’åºçš„å­¦ç”Ÿä¿¡æ¯å†™å‡ºåˆ°æ–‡ä»¶â€œstudent.binâ€ä¸­ã€‚
+ä½¿ç”¨ObjectInputStreamå°†â€œstudent.binâ€ä¸­çš„å¯¹è±¡ä¿¡æ¯è¯»å…¥ç¨‹åºï¼Œæ˜¾ç¤ºåœ¨æ§åˆ¶å°ä¸­ã€‚
+javaæ–‡ä»¶ï¼š
 Student.java
 Serialize.java
-½ØÍ¼£º
+æˆªå›¾ï¼š
 ![image](https://github.com/ZQD5L/Java/raw/master/imgs/4.1.png)
 ![image](https://github.com/ZQD5L/Java/raw/master/imgs/4.2.png)
