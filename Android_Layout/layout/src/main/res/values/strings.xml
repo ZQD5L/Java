@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Layout</string>
+
+    <string name="E11">One,One</string>
+    <string name="E12">One,Two</string>
+    <string name="E13">One,Three</string>
+    <string name="E14">One,Four</string>
+    <string name="E21">Two,One</string>
+    <string name="E22">Two,Two</string>
+    <string name="E23">Two,Three</string>
+    <string name="E24">Two,Four</string>
+    <string name="E31">Three,One</string>
+    <string name="E32">Three,Two</string>
+    <string name="E33">Three,Three</string>
+    <string name="E34">Three,Four</string>
+    <string name="E41">Four,One</string>
+    <string name="E42">Four,Two</string>
+    <string name="E43">Four,Three</string>
+    <string name="E44">Four,Four</string>
+
+    <string name="red">RED</string>
+    <string name="orange">ORANGE</string>
+    <string name="yellow">YELLOW</string>
+    <string name="green">GREEN</string>
+    <string name="blue">BLUE</string>
+    <string name="indigo">INDIGO</string>
+    <string name="violbt">VIOLBT</string>
+
+
+    <string name="open">&#160;&#160;&#160;&#160;Open...</string>
+    <string name="open_shortcut">Ctrl-O</string>
+    <string name="save">&#160;&#160;&#160;&#160;Save...</string>
+    <string name="save_shortcut">Ctrl-S</string>
+    <string name="save_as">&#160;&#160;&#160;&#160;Save As...</string>
+    <string name="save_as_shortcut">Ctrl-Shift-S</string>
+    <string name="ximport">X&#160;&#160;Import...</string>
+    <string name="xexport">X&#160;&#160;Export...</string>
+    <string name="xexport_shortcut">Ctrl-E</string>
+    <string name="quit">&#160;&#160;&#160;&#160;Quit</string>
+</resources>
