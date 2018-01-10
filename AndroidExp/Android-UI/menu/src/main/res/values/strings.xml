@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="fontSize">字体大小</string>
+    <string name="fontSize_big">大</string>
+    <string name="fontSize_middle">中</string>
+    <string name="fontSize_small">小</string>
+    <string name="toast_menu">普通菜单项</string>
+    <string name="font_color">字体颜色</string>
+    <string name="font_color_red">红色</string>
+    <string name="font_color_black">黑色</string>
+    <string name="txt">用于测试的内容</string>
+</resources>

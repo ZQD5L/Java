@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImplicitIntentDemo</string>
+    <string name="hint">请输入网址</string>
+    <string name="button">浏览</string>
+</resources>

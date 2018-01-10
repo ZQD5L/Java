@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fontSize"
+        android:title="@string/fontSize">
+        <menu>
+            <item
+                android:id="@+id/fontSize_big"
+                android:title="@string/fontSize_big"/>
+            <item
+                android:id="@+id/fontSize_middle"
+                android:title="@string/fontSize_middle"/>
+            <item
+                android:id="@+id/fontSize_small"
+                android:title="@string/fontSize_small"/>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/toast_menu"
+        android:title="@string/toast_menu"/>
+
+    <item
+        android:id="@+id/fontColor"
+        android:title="@string/font_color">
+        <menu>
+            <item
+                android:id="@+id/fontColor_red"
+                android:title="@string/font_color_red"/>
+            <item
+                android:id="@+id/fontColor_black"
+                android:title="@string/font_color_black"/>
+        </menu>
+    </item>
+
+</menu>
